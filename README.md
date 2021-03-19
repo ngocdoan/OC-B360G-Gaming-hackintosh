@@ -1,3 +1,6 @@
+# New update Mar 19 2021
+- Open core 0.6.7
+- No USB patch
 # OC-B360G-Gaming-hackintosh
 - Main Asus B360G Gaming
 - 16GB RAM
